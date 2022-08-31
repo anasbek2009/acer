@@ -173,6 +173,39 @@ footer{
 .hov4:hover{
     transform: scale(1.1);
 }
+.top{
+    width: 200px;
+    height: 60px;
+    background-color: green;
+    border-radius: 40px;
+    margin: auto;
+}
+.midle{
+    width: 300px;
+    height: 60px;
+    border-radius: 40px;
+    background-color: green;
+    margin: auto;
+}
+.center{
+    width: 400px;
+    height: 60px;
+    background-color: green;
+    border-radius: 40px;
+    margin: auto;
+}
+.bottom{
+    width: 500px;
+    height: 60px;
+    border-radius: 40px;
+    margin: auto;
+}
+.to{
+    width: 100px;
+    height: 60px;background-color: green;
+    border-radius: 40px;
+    margin: auto;
+}
 
 
 
